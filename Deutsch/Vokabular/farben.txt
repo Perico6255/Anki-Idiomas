@@ -1,0 +1,16 @@
+rojo | rot
+azul | blau
+amarillo | gelb
+verde | grün
+negro | schwarz
+blanco | weiß
+gris | grau
+marrón | braun
+naranja | orange
+rosa | rosa
+violeta | violett
+lila | lila
+turquesa | türkis
+beige | beige
+dorado | gold
+plateado | silber
